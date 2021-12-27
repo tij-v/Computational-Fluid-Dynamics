@@ -1,4 +1,4 @@
-<span style="color:red"> **2D Wall Streamline Flow Pattern Simulation**.</span>
+<span style="color:red">2D Wall Streamline Flow Pattern Simulation.</span>
 
 
 Simulation in C to capture the stream inflow behavior, give the wall conditions. 
