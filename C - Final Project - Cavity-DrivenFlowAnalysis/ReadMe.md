@@ -1,3 +1,5 @@
+## **Cavity-Driven Flow Simulation Inside a 2-D Enclosure**
+
 Like all other projects, the Final Project was coded in C. First I had to develop the numerical schemes applicable to the problem presented to me. 
 The procedure and the derivation are described in detail, in the word document named "Final Project Report". 
 
