@@ -1,5 +1,3 @@
-//Name: Shitij Vishwakarma
-//Student ID: 902294581
 //AEE 5150: CFD
 //Project 1: Question 1
 

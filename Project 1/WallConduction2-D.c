@@ -1,4 +1,3 @@
-//Name: Shitij Vishwakarma
 // CLass: CFD 
 //Project 1: Question 2    
 
@@ -199,23 +198,6 @@ void printData(double** wallTemp, double n) {
             }
             fprintf(filePtr, "\n");
         }
-        //for loop to get all the data from the code for matlab. Remove from Comments to print the values, but make sure to comment the 
-        // the code above.
-        //for (int j = 0; j < 36; j++) {
-        //    //fprintf(filePtr, "\t %3.1f\t|", ((double)j) / 10);
-        //    for (int i = 0; i < 36; i++) {
-        //        //if (i == 5 || i == 15 || i == 25 || i == 35) {
-        //        //    
-        //        //}
-        //        if (abs(wallTemp[j][i]) < 1000) {
-        //            fprintf(filePtr, "   %8.3f\t", wallTemp[j][i]);
-        //        }
-        //        else if (abs(wallTemp[j][i]) > 1000) {
-        //            fprintf(filePtr, "   %8.3e\t", wallTemp[j][i]);
-        //        }
-        //    }
-        //    fprintf(filePtr, "\n");
-        //}
         fclose(filePtr);
     }    
 }
