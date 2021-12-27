@@ -7,4 +7,5 @@ This program implements the 2-D, incompressible flow, continuity partial differe
 
 As a subtask, I also compared how soon each of the aforementioned methods solve the problem. This represented in the number of iterations given on each corresponding plot.
 Furthermore, I also visualized at which iteration count does the program diverges and gets stuck in an infinite loop. Also given by a plot represenation. 
+The simulation ran until the convergence criteria of Max Error < 0.01 was met.
 
