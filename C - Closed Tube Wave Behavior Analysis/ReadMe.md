@@ -1,4 +1,4 @@
-## **Wave Behavior Analysis Inside a Closed Tube**
+## **Wave Behavior Simulation Inside a Closed Tube**
 
 Task 1
 Simulation in C to analyze shockwave propagation behavior inside a closed tube, using different numerical techniques. Namely:
