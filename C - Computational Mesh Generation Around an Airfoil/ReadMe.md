@@ -1,3 +1,5 @@
+## **Computational Elliptical Mesh Generation Around an Airfoil**
+
 This is thus far my favorite coded simulation. For this simulation, not did we have to code an airfoil shape, but we also had to code the grid/mesh around it. 
 This was particularly challenging because I had to connect all the points on the airfoil to all the points on the outer grid. 
 This is plotted as the Algebraic Grid mesh. 
