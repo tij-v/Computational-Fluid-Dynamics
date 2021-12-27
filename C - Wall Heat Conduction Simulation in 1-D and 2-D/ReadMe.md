@@ -1,4 +1,4 @@
-Simulation in C to capture the conduction of heat on 1-D and 2-D walls, respectively. For calculations we implement the 1-D and 2-D Heat equation, respectively.
+Simulation in C to capture the conduction of heat on 1-D and 2-D walls, respectively. For calculations we implement the 1-D and 2-D Heat equations, respectively.
 In the first task, I compare the efficiency of various computation methods, viz:
 1. Crank-Nicolson
 2. DuFort Frankle
