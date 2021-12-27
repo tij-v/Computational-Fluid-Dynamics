@@ -1,4 +1,4 @@
-## **Heat Conduction Dissipation Simulation on a 1-D and 2-D Wall**
+## **Heat Conduction Dissipation Simulation on a 1-D and a 2-D Wall**
 
 Simulation in C to capture the conduction of heat on 1-D and 2-D walls, respectively. For calculations we implement the 1-D and 2-D Heat equations, respectively.
 In the first task, I compare the efficiency of various computation methods, viz:
